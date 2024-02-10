@@ -1,2 +1,2 @@
-# en
-a American English version of my web-page.
+# en-US
+a **American** English version of my web-page.
